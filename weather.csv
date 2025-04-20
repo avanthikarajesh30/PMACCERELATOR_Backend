@@ -1,0 +1,11 @@
+location,start_date,end_date,weather,temperature
+London,2024-04-01,2024-04-03,scattered clouds,7.89
+"New York,US",2024-04-01,2024-04-03,clear sky,25.8
+"Blacksburg,US",2024-04-01,2024-04-03,clear sky,26.63
+"San Francisco,US",2024-02-10,2024-02-12,scattered clouds,13.37
+"Paris,FR",2024-01-15,2024-01-17,broken clouds,14.96
+"Miami,US",2024-05-01,2024-05-03,few clouds,28.03
+"Tokyo,JP",2024-03-01,2024-03-03,broken clouds,18.61
+"Phoenix,US",2024-06-10,2024-06-12,clear sky,23.11
+"Chicago,US",2024-07-01,2024-07-03,overcast clouds,10.67
+"Toronto,CA",2024-08-01,2024-08-03,scattered clouds,8.63
