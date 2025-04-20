@@ -24,5 +24,10 @@ A Flask-based backend API that lets users enter a location and a date range to f
 git clone <your-repo-url>
 cd weather_backend
 
+python -m venv venv
+source venv/bin/activate
+
+pip install -r requirements.txt
+
 
 
